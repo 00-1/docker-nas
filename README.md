@@ -1,6 +1,10 @@
-# docker-nas
+# docker-nas-arm
 
 NAS server on arm in docker containers
+
+## hardware
+
+[odroid hc1](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G150229074080)
 
 ## containers
 
