@@ -77,3 +77,9 @@ https://hub.docker.com/r/homeassistant/armhf-homeassistant/
 https://hub.docker.com/r/minio/minio/
 
 need to build for arm: https://github.com/alexellis/docker-arm/tree/master/images/armhf/minio
+
+mirror to s3: https://docs.minio.io/docs/store-mysql-backups-in-minio.html
+
+install minio client and configure s3 as host: https://docs.minio.io/docs/minio-client-complete-guide.html
+
+run minio browser against s3 for remote access: https://docs.minio.io/docs/minio-client-complete-guide.html#mirror
